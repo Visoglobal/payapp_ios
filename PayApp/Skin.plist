@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fonts</key>
+	<array>
+		<dict>
+			<key>FontName</key>
+			<string>Helvetica</string>
+			<key>Description</key>
+			<string>Основной шрифт приложения</string>
+			<key>Title</key>
+			<string>RegularFont</string>
+		</dict>
+	</array>
+	<key>Images</key>
+	<array>
+		<dict>
+			<key>File</key>
+			<string>navBar.png</string>
+			<key>Description</key>
+			<string>Фон NavigationBar</string>
+			<key>Title</key>
+			<string>NavigationBarBG</string>
+		</dict>
+	</array>
+	<key>Colors</key>
+	<array>
+		<dict>
+			<key>ColorValue</key>
+			<string>0x0097AC</string>
+			<key>Description</key>
+			<string>Основной цвет приложения.</string>
+			<key>Title</key>
+			<string>MainApplicationColor</string>
+		</dict>
+	</array>
+	<key>Custom</key>
+	<array>
+		<dict>
+			<key>Value</key>
+			<string>0</string>
+			<key>Description</key>
+			<string>Радиус скругления кнопок и полей ввода</string>
+			<key>Title</key>
+			<string>CornerRadius</string>
+		</dict>
+	</array>
+</dict>
+</plist>

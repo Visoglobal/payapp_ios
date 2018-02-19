@@ -1,0 +1,125 @@
+"cyrrencyShortName" = "руб";
+//main
+"appName" = "PayApp";
+"register" = "Регистрация";
+"oldUser" = "Я уже имею аккаунт";
+
+"notAllowedFinance" = "Ваш аккаунт не подтвержден. Для не подтвержденных аккаунтов запрещены операции. Для получения полных возможностей приложения необходимо завершить процедуру регистрации.";
+
+//Registration
+"contact" = "Ваш телефон или e-mail";
+"password" = "Пароль";
+"rePassword" = "Подтвердите пароль";
+"firstName" = "Фамилия";
+"secondName" = "Имя";
+"parentName" = "Отчество";
+"birthDate" = "Дата рождения";
+"sex" = "Выберите пол:";
+"male" = "Мужчина";
+"female" = "Женщина";
+"makeRegister" = "Зарегистрироваться";
+"completeRegisterMessage" = "Код с подтверждением о регистрации был успешно отправлен на вашу электронную почту";
+"restorePassMessage" = "Пароль был успешно отправлен на вашу электронную почту";
+
+//Authorization
+"forgetpass" = "Забыли пароль?";
+"returnaccess" = "Восстановление доступа";
+"enteraccess" = "Введите код доступа";
+
+"enterButton" = "Войти";
+"repairButton" = "Восстановить";
+"registerButton" = "Регистрация";
+
+"alertOkButtonTitle" = "ОК";
+"alertTitle" = "Внимание";
+
+"enptyLoginTextField" = "Поле логина или e-mail не должно быть пустым";
+"enptyTextField" = "Необходимо заполнить все поля";
+"checkingError" = "Произошла ошибка при проверке указанного логина, попробуйте еще раз или введите другой логин\\e-mail";
+"authorizeError" = "Произошла ошибка при авторизации по указанному логину\\e-mail, попробуйте еще раз или введите другой логин\\e-mail";
+"checkingWrong" = "Указанный логин\\e-mail не найден,  введите другой логин\\e-mail";
+
+"editError" = "Не удалось изменить контактные данные пользователя";
+"registrError" = "Не удалось зарегистрировать пользователя";
+"passNotEqual" = "Введенные пароли не совпадают";
+
+"emptyOperationTableLable" = "МЫ НЕ СМОГЛИ НАЙТИ ВАШИ СОВЕРШЕННЫЕ ОПЕРАЦИИ";
+"emptyCardsTableLable" = "МЫ НЕ СМОГЛИ НАЙТИ ВАШИ КРЕДИТНЫЕ КАРТЫ";
+"emptyContactsTableLable" = "ВАШ СПИСОК КОНТАКТОВ ПУСТ";
+
+"mainMenuAccount" = "Аккаунт";
+"mainMenuHistory" = "История переводов";
+"mainMenuCards" = "Карты";
+"mainMenuFriends" = "Контакты";
+"mainMenuSetting" = "НАСТРОЙКИ";
+"mainMenuExit" = "Выход";
+
+"exitMessage" = "Вы действительно хотите выйти из приложения?";
+"yesButton" = "Да";
+"noButton" = "Нет";
+
+//cards
+"addCardTitle" = "Добавление карты";
+"editCardTitle" = "Реадактирование карты";
+"cardTypePlaceholder" = "Card type";
+"cardStatesTitle" = "cardState";
+"cardholderPlaceholder" = "Cardholder name";
+"cardnumPlaceholder" = "Card number";
+"scanButtonTitle" = "Сканировать камерой";
+"contactlessInfo" = "Также вы можете поднести бесконтактную карту к устройству и данные будут считаны автоматически";
+"addButton" = "Добавить";
+"editButton" = "Редактировать";
+
+"useByDefault" = "Использовать по умолчанию";
+"registerError" = "Не заполнено обязательное поле PAN или не выбрана платежная система";
+"registerErrorMessage" = "Не удалось создать карту.";
+"editErrorMessage" = "Не удалось редактировать карту.";
+
+//transaction
+"transactionRequestMoneyTitle" = "Запросить деньги";
+"transactionSendMoneyTitle" = "Передать деньги";
+"transactionCantDetail" = "Детали доступны только по завершенным операциям.";
+"transaction failed" = "Не удалось провести транзакцию.";
+"transaction processed" = "Транзакция завершена. Статус транзакции можно просмотреть в разделе \"История переводов\"";
+
+"invite" = "Приглашение";
+"contactInvite" = "Телефон или e-mail";
+"sendInvite" = "Отправить приглашение";
+"inviteError" = "Не удалось пригласить пользователя";
+
+"filter" = "Фильтр";
+"byCard" = "По карте";
+"byDate" = "По дате";
+"byType" = "По типу операций";
+"applyButton" = "Применить";
+
+"typeGetting" = "Переводы";
+"typeAsking" = "Запросы";
+
+"detail" = "Детализация";
+"closeCheck" = "Закрыть чек";
+"transactionComplete" = "Перевод осуществлен";
+
+"applyView" = "Подтверждение";
+"applyAccount" = "Подтвердить";
+"applyTransaction" = "Перечислено";
+"applyComission" = "Комиссия";
+
+"requestCard" = "Выберите карту";
+"requestContact" = "Выбрать контакт";
+"requestSumm" = "Введите сумму запроса";
+"requestComission %@ %@ %@" = "Комиссия составляет %@%%, минимум %@ %@.";
+
+"requestAdditionalComission" = "Сторонним банком может быть удержана доп. комиссия за перевод.";
+
+"expireDate" = "YYYY/MM";
+"cardPaySys" = "CardPaySys";
+
+"editCheckBox" = "Разрешать просмотр профиля";
+"editNoCangesError" = "Необходимо изменить значения для одного или нескольких полей.";
+
+"sessionRestore" = "Восстановление сесии";
+"sessionChangeUser" = "Сменить пользователя";
+
+
+

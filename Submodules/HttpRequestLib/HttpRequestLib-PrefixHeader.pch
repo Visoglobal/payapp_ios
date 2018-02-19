@@ -1,0 +1,17 @@
+//
+//  HttpRequestLib-PrefixHeader.pch
+//  HttpRequestLib
+//
+//  Created by Alexey on 20.10.15.
+//  Copyright (c) 2015 Alexey. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "serverConfig.h"
+#import "AFNetworking.h"
+#import "HttpRequestManager.h"
+
+#endif
